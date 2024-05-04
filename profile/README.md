@@ -1,20 +1,8 @@
-# [Coexistence Conservation Lab](https://www.coexistenceconservationlab.org/)
+# Coexistence Conservation Lab
 
 We are a research group lead by [Professor Adrian Manning](https://www.coexistenceconservationlab.org/adrian-manning-profile) in the Fenner School of Environment and Society at The Australian National University. Our committed members have a variety of expertise and partnerships with government, NGOs, and other institutions, enabling us to integrate research and restoration with meaningful outcomes for conservation in Australia and around the world.
 
-Our work spans the themes of: 
-  - [Rewilding](https://www.coexistenceconservationlab.org/rewilding),
-  - [Conservation genetics](https://www.coexistenceconservationlab.org/conservation-genetics), 
-  - [Translocation science](https://www.coexistenceconservationlab.org/translocation-science), 
-  - [Conservation biology](https://www.coexistenceconservationlab.org/conservation-biology), and 
-  - [Coexistence conservation](https://www.coexistenceconservationlab.org/coexistence-conservation)
-
-Our projects include:
-  - [MFGO Woodland Experiment](https://www.coexistenceconservationlab.org/mulligans-flat-goorooyarroo-woodland-experiment), 
-  - [Ginninderry Conservation Corridor](https://www.coexistenceconservationlab.org/ginninderry-conservation-corridor), 
-  - [Super parrot project](https://www.coexistenceconservationlab.org/superb-parrot-project), 
-  - [Kielderhead Wildwood](https://www.coexistenceconservationlab.org/kielderhead-wildwood), and
-  - [Odonata Foundation](https://www.coexistenceconservationlab.org/odonata).
+Our work spans the **themes** of [Rewilding](https://www.coexistenceconservationlab.org/rewilding), [Conservation genetics](https://www.coexistenceconservationlab.org/conservation-genetics), [Translocation science](https://www.coexistenceconservationlab.org/translocation-science), [Conservation biology](https://www.coexistenceconservationlab.org/conservation-biology), and [Coexistence conservation](https://www.coexistenceconservationlab.org/coexistence-conservation). Our **projects** include the [MFGO Woodland Experiment](https://www.coexistenceconservationlab.org/mulligans-flat-goorooyarroo-woodland-experiment), [Ginninderry Conservation Corridor](https://www.coexistenceconservationlab.org/ginninderry-conservation-corridor), [Super parrot project](https://www.coexistenceconservationlab.org/superb-parrot-project), [Kielderhead Wildwood](https://www.coexistenceconservationlab.org/kielderhead-wildwood), and [Odonata Foundation](https://www.coexistenceconservationlab.org/odonata).
 
 ## Our philosophy
 
@@ -24,4 +12,4 @@ These conservation actions are ambitious. They cannot depend on the total eradic
 
 ## Acknowledgement of Country
 
-We acknowledge Australia’s First Nations peoples as its first scientists and Traditional Custodians. We recognise their  ongoing role in caring for Country and pay our respects to their elders past and present.
+We acknowledge, celebrate, and pay our respects to Australia's First Nations peoples as this Country's Traditional Custodians and first scientists. It is on their lands that we meet and work, and theirs are among the oldest continuing cultures in human history. It is a privilege to pay our respects to Elders, knowledge holders, and to all generations of First Nations Peoples who have nurtured their unceded sovereign lands since time immemorial.
