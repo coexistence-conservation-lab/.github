@@ -20,3 +20,5 @@ We acknowledge and pay our respects to the First Nations peoples who have nurtur
 We recognise Aboriginal and Torres Strait Islander peoples as the Traditional Custodians and [first scientists of Australia](https://www.indigenous.gov.au/stories/corey-tutt-first-scientists-and-their-deadly-inventions-and-innovations), whose sovereignty was never ceded. We honour their histories, cultures, and knowledge systems as the oldest continuing in human history. We particularly acknowledge the Ngunnawal and Ngambri peoples, on whose lands much of our work takes place, and we honour their enduring connection to Country—its lands, waters, skies, and all life within it.
 
 Conservation and restoration must engage meaningfully with Indigenous knowledge holders and reckon with colonial histories. We are committed to approaches that prioritise justice, equity, and responsibility to both Country and community. 
+
+<img width="1927" height="1125" alt="MFGOWE slide small" src="https://github.com/user-attachments/assets/8bb42b4d-0f3b-48d9-86e6-8dc829bb9e30" />
